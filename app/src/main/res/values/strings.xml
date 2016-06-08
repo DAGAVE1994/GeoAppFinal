@@ -3,7 +3,14 @@
     <string name="texto_pregunta">La peninsula de Yucatan se encuentra al Norte de Mexico?</string>
     <string name="texto_boton_cierto">Cierto</string>
     <string name="texto_boton_falso">Falso</string>
+    <string name="texto_boton_siguiente">Siguiente</string>
 
     <string name="texto_correcto">°Correcto!</string>
     <string name="texto_incorrecto">°Incorrecto!</string>
+
+    <string name="texto_pregunta2">øNuestro sistema solar se encuentra en la galaxia via lactea?</string>
+    <string name="texto_pregunta3">øEl oceano mas grande de nuestro planeta es el oceano pacifico?</string>
+    <string name="texto_pregunta4">øLos vientos alisios soplan del noreste al suroeste?</string>
+    <string name="texto_pregunta5">øEl estado m·s grande de nuestra Rep˙blica Mexicana es Sonora?</string>
 </resources>
+
